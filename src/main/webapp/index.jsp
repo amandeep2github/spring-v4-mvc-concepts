@@ -7,6 +7,6 @@
 <title>Index</title>
 </head>
 <body>
-<h1>Hello!</h1>
+<h1>Hello! This is JSP</h1>
 </body>
 </html>
